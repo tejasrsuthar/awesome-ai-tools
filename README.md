@@ -141,6 +141,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Haystack](https://haystack.deepset.ai/) - Framework for building NLP applications with semantic search and QA
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - Chatbot framework trained on clean assistant data including code and dialogue
 - [Phoenix](https://phoenix.arize.com/) - Open-source ML observability tool for monitoring LLM, CV, and tabular models
+- [OpenClaw](https://openclawapp.netlify.app/) - Self-hosted AI assistant framework operating locally with multi-channel support and business automation. [Course available](https://openclawapp.netlify.app/course/)
 - [LMQL](https://lmql.ai/) - Query language specifically designed for large language models
 
 ### 🛠️ MLOps & Monitoring

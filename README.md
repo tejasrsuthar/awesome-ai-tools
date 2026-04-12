@@ -185,6 +185,8 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Prompt Tower](https://github.com/backnotprop/prompt-tower) - Complex code block prompt creation interface
 - [Augment Code](https://www.augmentcode.com/) - Large repository navigation and management assistant
 - [Superdesign](https://www.superdesign.dev/) - AI design agent for rapid UI iteration and development
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing 9 SEO and Google Ads skills — connects Google Search Console, PageSpeed Insights, and the Google Ads API directly in your terminal
+
 
 ## AI Tools
 

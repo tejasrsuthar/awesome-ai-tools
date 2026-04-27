@@ -5,9 +5,9 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 ## Table of Contents
 
 - [AI Models](#ai-models)
-  - [Model Hosting Platforms](#️-model-hosting-platforms)
+  - [Model Hosting Platforms](#锔?model-hosting-platforms)
   - [Image Generation Models](#-image-generation-models)
-  - [Voice & Audio Models](#️-voice--audio-models)
+  - [Voice & Audio Models](#锔?voice--audio-models)
   - [Language Models](#-language-models)
   - [AI Assistant Models](#-ai-assistant-models)
   - [AI Agents & Marketplaces](#-ai-agents--marketplaces)
@@ -15,13 +15,13 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
   - [Video Generation Models](#-video-generation-models)
 - [AI Frameworks](#ai-frameworks)
   - [Development Frameworks](#-development-frameworks)
-  - [MLOps & Monitoring](#️-mlops--monitoring)
+  - [MLOps & Monitoring](#锔?mlops--monitoring)
   - [Specialized Assistant Frameworks](#-specialized-assistant-frameworks)
-  - [AI Agent Development Frameworks](#️-ai-agent-development-frameworks)
-  - [Backend & Infrastructure](#️-backend--infrastructure)
+  - [AI Agent Development Frameworks](#锔?ai-agent-development-frameworks)
+  - [Backend & Infrastructure](#锔?backend--infrastructure)
   - [Extensions & Plugins](#-extensions--plugins)
 - [AI Tools](#ai-tools)
-  - [Writing & Content Creation](#️-writing--content-creation)
+  - [Writing & Content Creation](#锔?writing--content-creation)
   - [Chatbots & Conversational AI](#-chatbots--conversational-ai)
   - [Search & Discovery](#-search--discovery)
   - [Developer Tools](#-developer-tools)
@@ -37,28 +37,28 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [MCP Servers](#mcp-servers)
   - [Aggregators & Meta Servers](#-aggregators--meta-servers)
   - [Search & Web](#-search--web)
-  - [Development Tools](#️-development-tools)
+  - [Development Tools](#锔?development-tools)
   - [Databases](#-databases)
   - [Monitoring](#-monitoring)
-  - [Cloud Platforms & Infrastructure](#️-cloud-platforms--infrastructure)
-  - [Cloud Storage](#️-cloud-storage)
+  - [Cloud Platforms & Infrastructure](#锔?cloud-platforms--infrastructure)
+  - [Cloud Storage](#锔?cloud-storage)
   - [Version Control](#-version-control)
 - [MCP Clients](#mcp-clients)
-  - [Desktop Applications](#️-desktop-applications)
+  - [Desktop Applications](#锔?desktop-applications)
   - [Development Environments](#-development-environments)
   - [Web & Browser Applications](#-web--browser-applications)
-  - [Command Line Interfaces](#️-command-line-interfaces)
+  - [Command Line Interfaces](#锔?command-line-interfaces)
   - [Specialized Clients & Frameworks](#-specialized-clients--frameworks)
   - [Development & Testing Tools](#-development--testing-tools)
 
 ## AI Models
 
-### 🏗️ Model Hosting Platforms
+### 馃彈锔?Model Hosting Platforms
 
 - [Hugging Face](https://huggingface.co/) - Comprehensive platform for building, sharing, and deploying AI models with ease
 - [Github Models](https://github.blog/news-insights/product-news/introducing-github-models/) - GitHub's platform empowering developers to become AI engineers with integrated model access
 
-### 🎨 Image Generation Models
+### 馃帹 Image Generation Models
 
 - [Midjourney](https://www.midjourney.com/) - Independent research lab exploring new mediums of thought and expanding imaginative powers
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - State-of-the-art open-source text-to-image model by Stability AI
@@ -71,7 +71,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta's multimodal generative AI with creative control through text and sketches
 - [DragGAN](https://github.com/XingangPan/DragGAN) - Interactive point-based manipulation on generative image manifolds
 
-### 🗣️ Voice & Audio Models
+### 馃棧锔?Voice & Audio Models
 
 - [ElevenLabs](https://elevenlabs.io/) - Ultra-realistic voice cloning and emotion modeling platform
 - [Resemble AI](https://www.resemble.ai/) - Real-time voice synthesis with extensive customization options
@@ -80,7 +80,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Respeecher](https://www.respeecher.com/) - Professional emotion-rich voice cloning for entertainment industry
 - [WellSaid Labs](https://www.wellsaidlabs.com/) - Natural-sounding voiceovers for corporate training and e-learning
 
-### 🤖 Language Models
+### 馃 Language Models
 
 - [Claude 3](https://claude.ai/) - Advanced AI assistant from Anthropic for conversational interactions
 - [Llama 3-8|70B](https://llama.meta.com/llama3/) - Meta's latest generation open-source language model with enhanced capabilities
@@ -97,7 +97,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Gemma2-9|27B](https://blog.google/technology/developers/google-gemma-2/) - Google's lightweight open model family with strong performance
 - [Phi3-3.8|7|14B](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct) - Microsoft's small language models with impressive capabilities
 
-### 🎭 AI Assistant Models
+### 馃幁 AI Assistant Models
 
 - [General Assistant](https://github.com/awesome-assistants/awesome-assistants) - Comprehensive AI assistant for detailed user support and task completion
 - [Intelligent Software Engineer](https://github.com/awesome-assistants/awesome-assistants) - Advanced assistant for software application creation and management
@@ -105,7 +105,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Doctor](https://github.com/awesome-assistants/awesome-assistants) - Medical assistant providing health information and wellness guidance
 - [Cybersecurity Specialist](https://github.com/awesome-assistants/awesome-assistants) - Security-focused assistant for threat prevention and data protection strategies
 
-### 🤖 AI Agents & Marketplaces
+### 馃 AI Agents & Marketplaces
 
 - [Altern AI Agents](https://altern.ai/ai-agents) - World's largest AI agent marketplace with 1000+ agents across 50+ categories
 - [AI Agent Store](https://aiagentstore.ai/) - Marketplace and discovery hub with categorized agents by profession and monetization options
@@ -114,7 +114,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Add AI Directory](https://addaidirectory.com/) - Cataloging platform for AI agents and tools with business advertising features
 - [AI For Developers](https://aifordevelopers.org/category/coding-agents) - Specialized directory focusing on coding and development agents
 
-### 🏢 Enterprise & Commercial Models
+### 馃彚 Enterprise & Commercial Models
 
 - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/) - Alibaba's advanced multilingual language model series with MOE architecture
 - [DeepSeek-v2-236B-MoE](https://arxiv.org/abs/2405.04434) - Large-scale mixture of experts model for advanced reasoning tasks
@@ -125,7 +125,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Yi-34B](https://huggingface.co/collections/01-ai/yi-2023-11-663f3f19119ff712e176720f) - 01.AI's bilingual large language model with strong performance
 - [InternLM2-1.8|7|20B](https://huggingface.co/collections/internlm/internlm2-65b0ce04970888799707893c) - Shanghai AI Lab's multilingual model series
 
-### 📹 Video Generation Models
+### 馃摴 Video Generation Models
 
 - [RunwayML](https://runwayml.com/) - Next-generation content creation suite with magical AI tools
 - [Synthesia](https://www.synthesia.io/) - Platform for creating videos from plain text in minutes
@@ -134,7 +134,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ## AI Frameworks
 
-### 🔧 Development Frameworks
+### 馃敡 Development Frameworks
 
 - [LangChain](https://langchain.com/) - Comprehensive framework for developing language model-powered applications
 - [LlamaIndex](https://www.llamaindex.ai/) - Data framework for building LLM applications over external data sources
@@ -143,7 +143,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Phoenix](https://phoenix.arize.com/) - Open-source ML observability tool for monitoring LLM, CV, and tabular models
 - [LMQL](https://lmql.ai/) - Query language specifically designed for large language models
 
-### 🛠️ MLOps & Monitoring
+### 馃洜锔?MLOps & Monitoring
 
 - [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform for collaborative debugging and analysis
 - [Portkey](https://portkey.ai/) - Full-stack LLMOps platform for monitoring and managing LLM applications
@@ -151,7 +151,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Maxim AI](https://www.getmaxim.ai/) - Generative AI evaluation and observability platform for quality assurance
 - [Keploy](https://keploy.io/) - Open-source tool for converting user traffic to test cases and data stubs
 
-### 🎯 Specialized Assistant Frameworks
+### 馃幆 Specialized Assistant Frameworks
 
 - [Agile Project Manager](https://github.com/awesome-assistants/awesome-assistants) - Framework for AI-powered Agile project management and team coordination
 - [Marketing Assistant](https://github.com/awesome-assistants/awesome-assistants) - Specialized framework for smart marketing decision-making and strategy development
@@ -159,7 +159,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Career Consultant](https://github.com/awesome-assistants/awesome-assistants) - Professional development framework for career guidance and growth planning
 - [Life Coach](https://github.com/awesome-assistants/awesome-assistants) - Personal development framework for goal achievement and life balance
 
-### 🔧 AI Agent Development Frameworks
+### 馃敡 AI Agent Development Frameworks
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - Extensive collection of autonomous agents like AutoGPT and BabyAGI with metadata
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Curated open-source AI agent frameworks organized by type and domain
@@ -168,7 +168,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [GetStream/ai-agent-tools-catalog](https://github.com/GetStream/ai-agent-tools-catalog) - Comprehensive catalog of agent integration tools and services
 - [AgentMCP/ai-agent-directory](https://github.com/AgentMCP/ai-agent-directory) - MCP-compatible agents with orchestration and discovery support
 
-### 🏗️ Backend & Infrastructure
+### 馃彈锔?Backend & Infrastructure
 
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, and Auth
 - [co:here](https://cohere.ai/) - Platform providing access to advanced Large Language Models and NLP tools
@@ -177,7 +177,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Qdrant](https://qdrant.tech/) - High-performance vector similarity search engine with extended filtering
 - [Dyad](https://www.dyad.sh/) - Lightweight local platform for cloud-independent AI-driven app development
 
-### 🔌 Extensions & Plugins
+### 馃攲 Extensions & Plugins
 
 - [Cline](https://cline.bot/) - CLI and editor connector for natural language command interpretation
 - [Roo Code](https://github.com/RooVetGit/Roo-Code) - Enhanced version of Cline with additional development features
@@ -188,7 +188,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ## AI Tools
 
-### ✍️ Writing & Content Creation
+### 鉁嶏笍 Writing & Content Creation
 
 - [Rytr](https://rytr.me/) - AI writing assistant for creating high-quality content efficiently
 - [copy.ai](https://www.copy.ai/) - Platform for generating better marketing copy and content with AI
@@ -203,7 +203,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication quality
 - [Postwise](https://postwise.ai/) - Tool for writing tweets, scheduling posts, and growing social following
 
-### 💬 Chatbots & Conversational AI
+### 馃挰 Chatbots & Conversational AI
 
 - [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters
 - [ChatPDF](https://www.chatpdf.com/) - Tool enabling conversations with any PDF document
@@ -212,7 +212,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework
 - [Hexabot](https://hexabot.ai) - Open-source no-code tool for building multilingual AI chatbots
 
-### 🔍 Search & Discovery
+### 馃攳 Search & Discovery
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI-powered search tools for intelligent information retrieval
 - [You.com](https://you.com/) - Privacy-focused search engine with customized AI-powered experience
@@ -222,7 +222,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [quivr](https://github.com/StanGirard/quivr) - Generative AI second brain for chatting with your files
 - [MemFree](https://github.com/memfreeme/memfree) - Open-source hybrid AI search across internet, bookmarks, and docs
 
-### 👨‍💻 Developer Tools
+### 馃懆鈥嶐煉?Developer Tools
 
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer suggesting code and functions in real-time
 - [tabnine](https://www.tabnine.com/) - Code completion tool with whole-line and full-function suggestions
@@ -241,8 +241,9 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [CodeSelect](https://github.com/maynetee/codeselect) - Structured source context provider for language models
 - [OpenAI Codex CLI](https://github.com/openai/codex) - Experimental terminal assistant for code generation
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google Gemini-powered terminal development assistant
+- [CPMS](https://github.com/creditai/Coding-Plan-Monitoring-System) - Real-time AI API balance monitor with floating widget and consumption prediction
 
-### 🎨 Image & Visual Creation
+### 馃帹 Image & Visual Creation
 
 - [Craiyon](https://www.craiyon.com/) - AI model creating images from any text prompt (formerly DALL-E mini)
 - [DreamStudio](https://beta.dreamstudio.ai/) - User-friendly interface for Stable Diffusion image generation
@@ -257,7 +258,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [VectorArt.ai](https://vectorart.ai) - Tool for creating vector images with artificial intelligence
 - [Lensa](https://prisma-ai.com/lensa) - All-in-one image editing app with AI avatar generation
 
-### 🎬 Video & Audio Tools
+### 馃幀 Video & Audio Tools
 
 - [Rephrase AI](https://www.rephrase.ai/) - Technology for hyper-personalized video creation at scale
 - [Clipwing](https://clipwing.pro/) - Tool for cutting long videos into multiple short clips
@@ -268,7 +269,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [iSpeech](https://www.ispeech.org/) - Versatile corporate voice solution with multilingual support
 - [Zenmic.com](https://zenmic.com) - App for generating complete podcast episodes with AI
 
-### 🏢 Business & Productivity
+### 馃彚 Business & Productivity
 
 - [Anyword](https://anyword.com/) - AI writing assistant generating effective copy for marketing
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for enterprise and eCommerce
@@ -285,7 +286,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Advertising Assistant](https://github.com/awesome-assistants/awesome-assistants) - Campaign optimization tool for ad copy, targeting, and platform selection
 - [Product Manager](https://github.com/awesome-assistants/awesome-assistants) - Strategic assistant for product development and roadmap planning
 
-### 🎓 Education & Learning
+### 馃帗 Education & Learning
 
 - [Homework Solver](https://github.com/awesome-assistants/awesome-assistants) - Multi-subject academic assistant for problem-solving and explanations
 - [English Tutor](https://github.com/awesome-assistants/awesome-assistants) - Language learning assistant for grammar, vocabulary, and conversation practice
@@ -294,7 +295,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [AI Writing Tutor](https://github.com/awesome-assistants/awesome-assistants) - Writing improvement assistant for style, structure, and clarity enhancement
 - [Spoken English Teacher](https://github.com/awesome-assistants/awesome-assistants) - Conversational English practice with grammar correction and feedback
 
-### 🎨 Creative & Entertainment
+### 馃帹 Creative & Entertainment
 
 - [Song Writer](https://github.com/awesome-assistants/awesome-assistants) - Music composition assistant for lyrics, melodies, and song structure guidance
 - [Poem Writer](https://github.com/awesome-assistants/awesome-assistants) - Poetry creation tool with guidance on structure, rhyme, and literary devices
@@ -305,7 +306,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Stand-up Comedian](https://github.com/awesome-assistants/awesome-assistants) - Comedy writing assistant for joke creation and performance tips
 - [Storyteller](https://github.com/awesome-assistants/awesome-assistants) - Narrative creation assistant for engaging story development and plot guidance
 
-### 🔧 Technical & Development
+### 馃敡 Technical & Development
 
 - [Code Assistant](https://github.com/awesome-assistants/awesome-assistants) - Programming support tool with code examples and debugging guidance
 - [JavaScript Console](https://github.com/awesome-assistants/awesome-assistants) - Interactive JavaScript execution environment for code testing
@@ -324,7 +325,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [claude-code](https://github.com/anthropics/claude-code) - Cross-codebase AI assistant for explanations and task automation
 - [Goose](https://block.github.io/goose/) - Local AI agent framework compatible with multiple language models
 
-### 🚀 AI-Powered Development Platforms
+### 馃殌 AI-Powered Development Platforms
 
 - [Bolt.new](https://bolt.new/) - Rapid web and mobile app prototyping through natural language prompts
 - [Lovable](https://lovable.dev/) - Full-stack application generator from simple conceptual descriptions
@@ -339,7 +340,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Tempo](https://www.tempo.new/) - Accelerated React project development with AI assistance
 - [Trickle](https://www.trickle.so/) - AI-based visual builder for websites and applications
 
-### 📱 Mobile & Cross-Platform Tools
+### 馃摫 Mobile & Cross-Platform Tools
 
 - [VibeCode](https://www.vibecodeapp.com/) - Mobile-first AI-powered application creator
 - [Rork](https://rork.app/) - Specialized mobile application generation platform
@@ -349,7 +350,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [HeyBoss](https://www.heyboss.xyz/) - Quick functional website generation tool
 - [CHAI.new](https://chai.new) - AI agent coding and deployment platform
 
-### 🤖 AI Agent Applications & Tools
+### 馃 AI Agent Applications & Tools
 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Curated LLM-based agent applications for chat, productivity, and RAG tools
 - [0xmetaschool/AI-Agents-Directory](https://github.com/0xmetaschool/AI-Agents-Directory) - Open-source AI agent marketplace with contribution tools
@@ -357,7 +358,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ## MCP Servers
 
-### 🔗 Aggregators & Meta Servers
+### 馃敆 Aggregators & Meta Servers
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) - Unified MCP server implementation aggregating multiple servers into one interface
 - [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) - MetaMCP unified middleware server managing MCP connections with GUI
@@ -368,14 +369,14 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs using 8,000+ prebuilt tools
 - [Data-Everything/mcp-server-templates](https://github.com/Data-Everything/mcp-server-templates) - Unified MCP platform connecting multiple apps and services behind one interface
 
-### 🔍 Search & Web
+### 馃攳 Search & Web
 
 - [Exa](https://github.com/exa-labs/exa-mcp-server) - Web search capabilities using Exa's search API for comprehensive information retrieval
 - [Perplexity](https://github.com/modelcontextprotocol/servers/tree/main/src/perplexity) - Integration with Perplexity AI for advanced search and question answering
 - [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Privacy-focused search engine integration for web queries
 - [Tavily](https://github.com/modelcontextprotocol/servers/tree/main/src/tavily) - AI-powered search API for comprehensive web research and information gathering
 
-### 🛠️ Development Tools
+### 馃洜锔?Development Tools
 
 - [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Error tracking and performance monitoring integration
 - [Linear](https://github.com/modelcontextprotocol/servers/tree/main/src/linear) - Issue tracking and project management platform integration
@@ -393,7 +394,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [abrinsmead/mindpilot-mcp](https://github.com/abrinsmead/mindpilot-mcp) - Code and architecture visualization as mermaid diagrams in web app
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) - Codebase analysis identifying important files based on dependency relationships
 
-### 💾 Databases
+### 馃捑 Databases
 
 - [Neon](https://github.com/neondatabase/mcp-server-neon) - Serverless Postgres database integration with branching and scaling capabilities
 - [Turso](https://github.com/tursodatabase/mcp-server-turso) - Edge database integration for distributed SQLite applications
@@ -413,14 +414,14 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [MongoDB](https://github.com/kiliczsh/mcp-mongo-server) - MongoDB integration for querying and analyzing collections
 - [SQLite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - SQLite database operations with built-in analysis features
 
-### 📈 Monitoring
+### 馃搱 Monitoring
 
 - [VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) - Comprehensive integration with VictoriaMetrics APIs for monitoring and observability
 - [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
 - [Metoro](https://github.com/metoro-io/metoro-mcp-server) - Query and interact with Kubernetes environments monitored by Metoro
 - [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
 
-### ☁️ Cloud Platforms & Infrastructure
+### 鈽侊笍 Cloud Platforms & Infrastructure
 
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official AWS MCP servers for seamless integration with AWS services and resources
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
@@ -432,13 +433,13 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) - Instant deployment to decentralized storage networks like IPFS and Arweave
 - [aashari/mcp-server-aws-sso](https://github.com/aashari/mcp-server-aws-sso) - AWS Single Sign-On integration for secure AWS resource interaction
 
-### ☁️ Cloud Storage
+### 鈽侊笍 Cloud Storage
 
 - [Microsoft 365](https://github.com/softeria/ms-365-mcp-server) - Complete Microsoft 365 suite integration including Office, Outlook, and Graph API access
-- [VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)⭐ - Serverless video database with AI-powered tagging, transcription, and moment retrieval
+- [VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)猸?- Serverless video database with AI-powered tagging, transcription, and moment retrieval
 - [Google Drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) - Google Drive integration for file access, search, and management operations
 
-### 🔄 Version Control
+### 馃攧 Version Control
 
 - [Phabricator](https://github.com/baba786/phabricator-mcp-server) - Phabricator API integration for repository and project management workflows
 - [Git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) - Direct Git repository operations including reading, searching, and analyzing local repositories
@@ -449,7 +450,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ## MCP Clients
 
-### 🖥️ Desktop Applications
+### 馃枼锔?Desktop Applications
 
 - [Claude Desktop](https://claude.ai/download) - Official Claude desktop app with seamless MCP integration for workflow enhancement
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Cross-platform desktop client supporting multiple LLM providers with MCP server integration
@@ -462,7 +463,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Witsy](https://github.com/nbonamy/witsy) - AI desktop assistant supporting major providers with one keyboard shortcut access
 - [Enconvo](https://github.com/Enconvo) - AI Agent Launcher for macOS with 150+ built-in tools and MCP support
 
-### 💻 Development Environments
+### 馃捇 Development Environments
 
 - [Cursor](https://github.com/getcursor/cursor) - AI-first code editor with built-in chat, edit, and debugging features plus MCP integration
 - [Windsurf](https://codeium.com/windsurf) - First agentic IDE enabling seamless developer-AI collaboration with magical coding experience
@@ -471,7 +472,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [VS Code GitHub Copilot](https://github.com/microsoft/vscode) - VS Code MCP integration through agent mode for agentic coding workflows
 - [Copilot-MCP](https://github.com/VikashLoomba/copilot-mcp) - VSCode extension enabling MCP server integration with GitHub Copilot Chat
 
-### 🌐 Web & Browser Applications
+### 馃寪 Web & Browser Applications
 
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT clone with agents, multiple providers, and comprehensive AI features
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - Light and fast AI assistant supporting Claude, DeepSeek, GPT4, Gemini Pro, and MCP
@@ -480,7 +481,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Superinterface](https://github.com/supercorp-ai/superinterface) - AI infrastructure platform for building in-app assistants with MCP and interactive components
 - [Glue](https://glue.ai) - Full-featured team chat platform with built-in AI agent and MCP support
 
-### 🖲️ Command Line Interfaces
+### 馃柌锔?Command Line Interfaces
 
 - [console-chat-gpt](https://github.com/amidabuddha/console-chat-gpt) - Command line interface for ChatGPT, Claude, Grok, Gemini, and DeepSeek interactions
 - [MCP CLI client](https://github.com/adhikasp/mcp-client-cli) - Simple CLI for running LLM prompts with MCP client implementation
@@ -489,7 +490,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Simple AI](https://github.com/gcc3/simple-ai-chat) - Command-based web/CLI application with MCP integration capabilities
 - [kibitz](https://github.com/nick1udwig/kibitz) - Free open-source Replit alternative with automated tool loops and MCP server connectivity
 
-### 🤖 Specialized Clients & Frameworks
+### 馃 Specialized Clients & Frameworks
 
 - [Chainlit](https://github.com/chainlit/chainlit) - Python framework for building conversational AI applications with MCP support
 - [Dolphin-MCP](https://github.com/cognitivecomputations/dolphin-mcp) - Open-source multi-server bridging client connecting MCP servers to any LLM
@@ -499,10 +500,11 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Runbear](https://github.com/runbear-io) - No-code MCP clients for Slack, Microsoft Teams, and Discord with knowledge sources
 - [MCP Simple Slackbot](https://github.com/sooperset/mcp-client-slackbot) - Simple Slack bot utilizing LLMs and MCP tools for team integration
 
-### 🧪 Development & Testing Tools
+### 馃И Development & Testing Tools
 
 - [MCP Chatbot](https://github.com/3choff/mcp-chatbot) - CLI chatbot example demonstrating MCP integration with multiple tools and LLM providers
 - [Tester MCP Client](https://github.com/apify/tester-mcp-client) - Standalone client for testing MCP servers over SSE with chat-like UI
 - [ChatMCP](https://github.com/daodao97/chatmcp) - AI chat client implementing Model Context Protocol for development and testing
 - [HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) - Open chat client using various LLM APIs with MCP protocol productivity tools
 - [CarrotAI](https://github.com/Xingsandesu/CarrotAI) - Advanced AI agent with real-time SSE streaming and concurrent MCP server connections
+

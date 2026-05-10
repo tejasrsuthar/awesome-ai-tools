@@ -284,6 +284,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [PR Specialist](https://github.com/awesome-assistants/awesome-assistants) - Public relations assistant for media outreach and communication strategies
 - [Advertising Assistant](https://github.com/awesome-assistants/awesome-assistants) - Campaign optimization tool for ad copy, targeting, and platform selection
 - [Product Manager](https://github.com/awesome-assistants/awesome-assistants) - Strategic assistant for product development and roadmap planning
+- [NotFair](https://notfair.co) - Hosted Google Ads MCP server connecting Claude and AI agents to your Google Ads account; diagnoses campaign performance, recommends optimizations, and executes approved changes via the Google Ads API
 
 ### 🎓 Education & Learning
 

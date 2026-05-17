@@ -270,6 +270,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ### 🏢 Business & Productivity
 
+- [AI for Database](https://aifordatabase.com/) - Connect to any database and interact with it in plain English. No SQL required — instant insights, self-refreshing dashboards, and automated workflows triggered by database changes.
 - [Anyword](https://anyword.com/) - AI writing assistant generating effective copy for marketing
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for enterprise and eCommerce
 - [Lavender](https://www.lavender.ai/) - Email assistant helping get more replies in less time

@@ -130,6 +130,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [RunwayML](https://runwayml.com/) - Next-generation content creation suite with magical AI tools
 - [Synthesia](https://www.synthesia.io/) - Platform for creating videos from plain text in minutes
 - [D-ID](https://www.d-id.com/) - Technology for creating and interacting with talking avatars
+- [ImagineClip](https://imagineclip.com?ref=tejasrsuthar-awesome-ai-tools) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects
 - [Hour One](https://hourone.ai/) - Automated video creation featuring virtual presenters
 
 ## AI Frameworks

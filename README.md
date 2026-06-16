@@ -131,6 +131,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Synthesia](https://www.synthesia.io/) - Platform for creating videos from plain text in minutes
 - [D-ID](https://www.d-id.com/) - Technology for creating and interacting with talking avatars
 - [Hour One](https://hourone.ai/) - Automated video creation featuring virtual presenters
+- [ImagineClip](https://imagineclip.com) - AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content from prompts, images, and effects
 
 ## AI Frameworks
 

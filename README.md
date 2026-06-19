@@ -185,6 +185,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Prompt Tower](https://github.com/backnotprop/prompt-tower) - Complex code block prompt creation interface
 - [Augment Code](https://www.augmentcode.com/) - Large repository navigation and management assistant
 - [Superdesign](https://www.superdesign.dev/) - AI design agent for rapid UI iteration and development
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
 ## AI Tools
 

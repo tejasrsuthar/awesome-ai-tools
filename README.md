@@ -297,6 +297,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 ### 🎨 Creative & Entertainment
 
 - [Song Writer](https://github.com/awesome-assistants/awesome-assistants) - Music composition assistant for lyrics, melodies, and song structure guidance
+- [Auferet](https://auferet.com) - AI game master for solo text adventures and tabletop RPGs with long-term story memory and your own uploaded lore
 - [Poem Writer](https://github.com/awesome-assistants/awesome-assistants) - Poetry creation tool with guidance on structure, rhyme, and literary devices
 - [Rapper](https://github.com/awesome-assistants/awesome-assistants) - Hip-hop lyric and beat creation assistant for meaningful musical expression
 - [The Chef](https://github.com/awesome-assistants/awesome-assistants) - Culinary assistant providing personalized recipes and cooking guidance

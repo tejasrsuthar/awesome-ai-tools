@@ -275,6 +275,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Lavender](https://www.lavender.ai/) - Email assistant helping get more replies in less time
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI for interacting with AWS Cloud using natural language
 - [Pagerly](https://www.pagerly.io) - Operations co-pilot on Slack/Teams for debugging assistance
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app for fast personal context retrieval
 - [Wordware](https://www.wordware.ai) - Web-hosted IDE for building task-specific AI agents
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web application development
 - [Marblism](https://marblism.com) - SaaS boilerplate generator from simple prompts

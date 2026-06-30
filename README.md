@@ -253,6 +253,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [RunDiffusion](https://rundiffusion.com/) - Cloud-based workspace for AI-generated art creation
 - [modyfi](https://www.modyfi.io/) - Browser-based image editor with AI-powered creative tools
 - [Avatar AI](https://avatarai.me/) - Platform for creating personalized AI-generated avatars
+- [HairWow](https://www.gohairwow.com) - AI hairstyle try-on for previewing haircuts, hair colors, bangs, curls, and salon or barber style changes on your own photo.
 - [Ponzu](https://www.ponzu.ai/) - Free AI logo generator for brand building
 - [VectorArt.ai](https://vectorart.ai) - Tool for creating vector images with artificial intelligence
 - [Lensa](https://prisma-ai.com/lensa) - All-in-one image editing app with AI avatar generation

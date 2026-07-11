@@ -215,6 +215,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 ### 🔍 Search & Discovery
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI-powered search tools for intelligent information retrieval
+- [ToolMagpie](https://toolmagpie.com) - Live-verified directory of AI agents (customer service, sales, coding, MCP servers, automation) that auto-flags dead tools, with side-by-side comparisons and honest pricing.
 - [You.com](https://you.com/) - Privacy-focused search engine with customized AI-powered experience
 - [Metaphor](https://metaphor.systems/) - Language model powered search for enhanced discovery
 - [Komo AI](https://komo.ai/) - AI-based search engine providing quick and concise answers

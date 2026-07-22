@@ -366,6 +366,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [TheLunarCompany/lunar#mcpx](https://github.com/TheLunarCompany/lunar/tree/main/mcpx) - Production-ready gateway managing MCP servers at scale with access controls
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) - Comprehensive proxy combining multiple servers with extensive visibility features
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs using 8,000+ prebuilt tools
+- [runapi-ai/mcp](https://github.com/runapi-ai/mcp) - MCP server for accessing image, video, music/audio, and model API workflows through RunAPI
 - [Data-Everything/mcp-server-templates](https://github.com/Data-Everything/mcp-server-templates) - Unified MCP platform connecting multiple apps and services behind one interface
 
 ### 🔍 Search & Web

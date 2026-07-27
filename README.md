@@ -73,6 +73,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ### 🗣️ Voice & Audio Models
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [ElevenLabs](https://elevenlabs.io/) - Ultra-realistic voice cloning and emotion modeling platform
 - [Resemble AI](https://www.resemble.ai/) - Real-time voice synthesis with extensive customization options
 - [Microsoft Azure Neural TTS](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) - Scalable text-to-speech for enterprise applications

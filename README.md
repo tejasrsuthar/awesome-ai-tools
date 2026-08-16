@@ -129,6 +129,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 - [RunwayML](https://runwayml.com/) - Next-generation content creation suite with magical AI tools
 - [Synthesia](https://www.synthesia.io/) - Platform for creating videos from plain text in minutes
+- [videos.social](https://videos.social/?utm_source=tejasrsuthar-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - [D-ID](https://www.d-id.com/) - Technology for creating and interacting with talking avatars
 - [Hour One](https://hourone.ai/) - Automated video creation featuring virtual presenters
 

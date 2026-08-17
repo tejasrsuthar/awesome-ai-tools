@@ -392,6 +392,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) - Local code execution via Docker supporting multiple programming languages
 - [abrinsmead/mindpilot-mcp](https://github.com/abrinsmead/mindpilot-mcp) - Code and architecture visualization as mermaid diagrams in web app
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) - Codebase analysis identifying important files based on dependency relationships
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) - Source-available MCP server for authoring, running, and triaging natural-language web and mobile application tests
 
 ### 💾 Databases
 

@@ -206,6 +206,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 ### 💬 Chatbots & Conversational AI
 
 - [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only
 - [ChatPDF](https://www.chatpdf.com/) - Tool enabling conversations with any PDF document
 - [Phind](https://www.phind.com/) - Intelligent search engine and assistant designed for programmers
 - [ChatSonic](https://writesonic.com/chat) - AI-powered assistant enabling both text and image creation

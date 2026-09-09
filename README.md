@@ -190,6 +190,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ### ✍️ Writing & Content Creation
 
+- [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker for job seekers
 - [Rytr](https://rytr.me/) - AI writing assistant for creating high-quality content efficiently
 - [copy.ai](https://www.copy.ai/) - Platform for generating better marketing copy and content with AI
 - [Jasper](https://www.jasper.ai/) - Comprehensive tool for creating content faster with artificial intelligence

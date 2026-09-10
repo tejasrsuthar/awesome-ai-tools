@@ -354,6 +354,8 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Curated LLM-based agent applications for chat, productivity, and RAG tools
 - [0xmetaschool/AI-Agents-Directory](https://github.com/0xmetaschool/AI-Agents-Directory) - Open-source AI agent marketplace with contribution tools
 - [SamurAIGPT/Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - Popular AI agents including AutoGPT and SuperAGI with quick access links
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 
 ## MCP Servers
 

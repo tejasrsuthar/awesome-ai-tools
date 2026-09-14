@@ -113,6 +113,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [AI Agents List](https://aiagentslist.com) - Comparison platform for AI agents across customer service, HR, design, and marketing
 - [Add AI Directory](https://addaidirectory.com/) - Cataloging platform for AI agents and tools with business advertising features
 - [AI For Developers](https://aifordevelopers.org/category/coding-agents) - Specialized directory focusing on coding and development agents
+- [Solgrok](https://github.com/LMajster/sgrok) - Autonomous Solana creator-ops agent ($SGROK) on Bags.fm: 24/7 promo + fee claim/sweep. Trade: https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
 
 ### 🏢 Enterprise & Commercial Models
 

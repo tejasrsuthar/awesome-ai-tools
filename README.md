@@ -267,6 +267,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Lovo.ai](https://www.lovo.ai/) - Voice generation platform for creative professionals
 - [iSpeech](https://www.ispeech.org/) - Versatile corporate voice solution with multilingual support
 - [Zenmic.com](https://zenmic.com) - App for generating complete podcast episodes with AI
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
 
 ### 🏢 Business & Productivity
 

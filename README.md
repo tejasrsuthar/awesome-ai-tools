@@ -367,6 +367,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) - Comprehensive proxy combining multiple servers with extensive visibility features
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500 APIs using 8,000+ prebuilt tools
 - [Data-Everything/mcp-server-templates](https://github.com/Data-Everything/mcp-server-templates) - Unified MCP platform connecting multiple apps and services behind one interface
+- [API.market MCP Gateway](https://api.market/mcp) - Proprietary hosted gateway exposing API discovery, execution, usage checks and subscription management through five tools at `https://api.market/api/mcp/gateway`, with OAuth or API-key authentication and API-specific pricing.
 
 ### 🔍 Search & Web
 

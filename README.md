@@ -204,6 +204,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Postwise](https://postwise.ai/) - Tool for writing tweets, scheduling posts, and growing social following
 
 ### 💬 Chatbots & Conversational AI
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 
 - [Character.AI](https://character.ai/) - Platform for creating and chatting with AI characters
 - [ChatPDF](https://www.chatpdf.com/) - Tool enabling conversations with any PDF document

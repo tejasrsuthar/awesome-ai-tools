@@ -267,6 +267,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Lovo.ai](https://www.lovo.ai/) - Voice generation platform for creative professionals
 - [iSpeech](https://www.ispeech.org/) - Versatile corporate voice solution with multilingual support
 - [Zenmic.com](https://zenmic.com) - App for generating complete podcast episodes with AI
+- [Vocal Separator](https://vocalseparator.com/) - Online vocal/instrumental and four-stem separation with WAV downloads; anonymous daily free allowance and optional prepaid minutes.
 
 ### 🏢 Business & Productivity
 

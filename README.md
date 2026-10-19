@@ -150,6 +150,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Prediction Guard](https://www.predictionguard.com/) - Platform for integrating private, controlled, and compliant LLM functionality
 - [Maxim AI](https://www.getmaxim.ai/) - Generative AI evaluation and observability platform for quality assurance
 - [Keploy](https://keploy.io/) - Open-source tool for converting user traffic to test cases and data stubs
+- [Flowlines](https://flowlines.ai/) - MCP analytics and agent monitoring for tool adoption, user journeys, reported outcomes, and recurring failures.
 
 ### 🎯 Specialized Assistant Frameworks
 

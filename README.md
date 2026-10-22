@@ -270,6 +270,8 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ### 🏢 Business & Productivity
 
+- [PDFnoted](https://pdfnoted.com/) - Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
+- [PDFnoted](https://pdfnoted.com) - Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
 - [Anyword](https://anyword.com/) - AI writing assistant generating effective copy for marketing
 - [Copysmith](https://copysmith.ai/) - AI content creation solution for enterprise and eCommerce
 - [Lavender](https://www.lavender.ai/) - Email assistant helping get more replies in less time

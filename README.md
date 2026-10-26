@@ -131,6 +131,9 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Synthesia](https://www.synthesia.io/) - Platform for creating videos from plain text in minutes
 - [D-ID](https://www.d-id.com/) - Technology for creating and interacting with talking avatars
 - [Hour One](https://hourone.ai/) - Automated video creation featuring virtual presenters
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ## AI Frameworks
 

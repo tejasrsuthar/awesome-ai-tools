@@ -127,6 +127,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 
 ### 📹 Video Generation Models
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [RunwayML](https://runwayml.com/) - Next-generation content creation suite with magical AI tools
 - [Synthesia](https://www.synthesia.io/) - Platform for creating videos from plain text in minutes
 - [D-ID](https://www.d-id.com/) - Technology for creating and interacting with talking avatars

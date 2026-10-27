@@ -256,6 +256,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Ponzu](https://www.ponzu.ai/) - Free AI logo generator for brand building
 - [VectorArt.ai](https://vectorart.ai) - Tool for creating vector images with artificial intelligence
 - [Lensa](https://prisma-ai.com/lensa) - All-in-one image editing app with AI avatar generation
+- [PicGens](https://www.picgens.com/) - Free gallery of AI image & photo prompts you can copy, with the picture, model, and creator link.
 
 ### 🎬 Video & Audio Tools
 

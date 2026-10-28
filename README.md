@@ -278,6 +278,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Wordware](https://www.wordware.ai) - Web-hosted IDE for building task-specific AI agents
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web application development
 - [Marblism](https://marblism.com) - SaaS boilerplate generator from simple prompts
+- [JobEmerge](https://www.jobemerge.work/) - AI career tool for job-fit checks, resume editing and translation, cover letters, text-based mock interviews, and application tracking
 - [Recruiter](https://github.com/awesome-assistants/awesome-assistants) - AI assistant for job search optimization and interview preparation
 - [CV Builder](https://github.com/awesome-assistants/awesome-assistants) - Professional resume creation tool with tailored formatting and content guidance
 - [Email Writer](https://github.com/awesome-assistants/awesome-assistants) - Specialized assistant for crafting effective business and personal emails

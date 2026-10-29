@@ -338,6 +338,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Napkins](https://www.napkins.dev/) - Mockup and screenshot to working code converter
 - [Tempo](https://www.tempo.new/) - Accelerated React project development with AI assistance
 - [Trickle](https://www.trickle.so/) - AI-based visual builder for websites and applications
+- [AppWizzy](https://appwizzy.com/) - AI web app builder combining natural-language development, runtime templates, and dedicated cloud VMs
 
 ### 📱 Mobile & Cross-Platform Tools
 

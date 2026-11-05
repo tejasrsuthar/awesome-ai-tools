@@ -262,6 +262,8 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Rephrase AI](https://www.rephrase.ai/) - Technology for hyper-personalized video creation at scale
 - [Clipwing](https://clipwing.pro/) - Tool for cutting long videos into multiple short clips
 - [ShortVideoGen](https://shortgen.video/) - Platform for creating short videos with audio from text
+- [Cyanvid](https://cyanvid.com/?utm_source=github-tejasrsuthar-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text/images with clear credit quotes
+- [Barz Studio](https://barzvideo.com/?utm_source=github-tejasrsuthar-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker (bring your track; WebM export)
 - [Recast Studio](https://recast.studio) - AI-powered podcast marketing assistant
 - [Descript Overdub](https://www.descript.com/overdub) - Voice cloning integrated with transcription and editing tools
 - [Lovo.ai](https://www.lovo.ai/) - Voice generation platform for creative professionals

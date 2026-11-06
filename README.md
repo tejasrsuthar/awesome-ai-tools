@@ -256,6 +256,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Ponzu](https://www.ponzu.ai/) - Free AI logo generator for brand building
 - [VectorArt.ai](https://vectorart.ai) - Tool for creating vector images with artificial intelligence
 - [Lensa](https://prisma-ai.com/lensa) - All-in-one image editing app with AI avatar generation
+- [EmptyRoom AI](https://emptyroomai.com/) - AI virtual staging for real estate photos, $4 per room with free restages
 
 ### 🎬 Video & Audio Tools
 

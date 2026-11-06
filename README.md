@@ -61,6 +61,9 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 ### 🎨 Image Generation Models
 
 - [Midjourney](https://www.midjourney.com/) - Independent research lab exploring new mediums of thought and expanding imaginative powers
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - State-of-the-art open-source text-to-image model by Stability AI
 - [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's most advanced image generation system with enhanced understanding
 - [Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) - Adobe's family of creative generative AI models

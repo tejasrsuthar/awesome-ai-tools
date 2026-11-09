@@ -277,6 +277,7 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [Pagerly](https://www.pagerly.io) - Operations co-pilot on Slack/Teams for debugging assistance
 - [Wordware](https://www.wordware.ai) - Web-hosted IDE for building task-specific AI agents
 - [Debuild](https://debuild.app/) - AI-powered low-code tool for web application development
+- [EarlyLore](https://earlylore.com/) - Validate product ideas against real competitors, demand, and entry angles
 - [Marblism](https://marblism.com) - SaaS boilerplate generator from simple prompts
 - [Recruiter](https://github.com/awesome-assistants/awesome-assistants) - AI assistant for job search optimization and interview preparation
 - [CV Builder](https://github.com/awesome-assistants/awesome-assistants) - Professional resume creation tool with tailored formatting and content guidance

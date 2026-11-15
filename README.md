@@ -211,6 +211,8 @@ A curated knowledgebase of AI resources including models, tools, frameworks, and
 - [ChatSonic](https://writesonic.com/chat) - AI-powered assistant enabling both text and image creation
 - [Tiledesk](https://tiledesk.com/) - Open-source LLM-enabled no-code chatbot development framework
 - [Hexabot](https://hexabot.ai) - Open-source no-code tool for building multilingual AI chatbots
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android AI companion for fictional character text chat, voice interaction, customization and creative roleplay.
+
 
 ### 🔍 Search & Discovery
 
